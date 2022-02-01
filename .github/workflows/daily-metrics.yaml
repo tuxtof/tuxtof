@@ -24,12 +24,8 @@ jobs:
           # Options
           user: tuxtof
           template: classic
-          base: header, activity, community
+          base: header, activity, community, repositories
           config_timezone: Europe/Paris
-
-          # Isometric commit calendar
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
 
           # Language plugin
           plugin_languages: yes
