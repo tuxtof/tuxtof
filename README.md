@@ -15,6 +15,6 @@
 ## I am Christophe Jauffret
 
 - Staff Solution Architect Cloud Native & AI/ML at [Nutanix](https://www.nutanix.com/)
-- Loves Sushi 🍣, Music 🎵 , Motorcycle 🏍 and Technology 🤖
+- Loves Sushi 🍣, Music 🎵 , Motors 🏍 🏎 ⚡️ and Technology 🤖 🎥
 
 ![Metrics](https://raw.githubusercontent.com/tuxtof/tuxtof/github-metrics/github-metrics.svg)
